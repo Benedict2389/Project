@@ -1,0 +1,16 @@
+Body{
+    background-color: bisque;
+}
+.a{
+    display: flex;
+    justify-content: space-evenly;
+}
+.b{
+    text-align: center;
+    justify-content: center;
+}
+
+.c{
+    display: flex;
+    justify-content: space-evenly;
+}
